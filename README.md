@@ -5,7 +5,7 @@
 - Predict the percentage scores of students based on the number of study hours
 - Predict the percentage score of a student that studies for 9.25 hours/day
 
-#### Solution Steps
+#### Solution Steps (Images Below)
 1. Import the required libraries
 2. Read the dataset and Display some information about it
 3. Assign the feature (Number of Hours) to X, the output (Percentage Score) to Y, and Plot them for visualization
@@ -15,6 +15,13 @@
 7. Get the Number of Hours as input from the user and predict the percentage Score
 8. Print the Mean Absolute Error
 
+<img src="https://github.com/Amr-Wael-Dev/grip-datascience-task1/blob/main/Resources/1.jpg" alt="Number of Hours Vs Percentage Score" title="Number of Hours Vs Percentage Score" width="300" height="300">&nbsp;
+<img src="https://github.com/Amr-Wael-Dev/grip-datascience-task1/blob/main/Resources/2.jpg" alt="Number of Hours Vs Percentage Score" title="Number of Hours Vs Percentage Score" width="300" height="300">&nbsp;
+
+<img src="https://github.com/Amr-Wael-Dev/grip-datascience-task1/blob/main/Resources/3.jpg" alt="Number of Hours Vs Percentage Score" title="Number of Hours Vs Percentage Score" width="300" height="300">&nbsp;
+<img src="https://github.com/Amr-Wael-Dev/grip-datascience-task1/blob/main/Resources/4.jpg" alt="Mean Absolute Erroe" title="Mean Absolute Error" width="600" height="300">&nbsp;
+
+---
 #### YouTube Video: [Amr Wael GRIP DataScience Task 2 Prediction Using Supervised ML](https://www.youtube.com/watch?v=mD44VBic_aU)
 #### LinkedIn Post: [LinkedIn Post](https://www.linkedin.com/posts/amr-abdelaal-dev_task1-task-gripapril22-activity-6919620992512208897-vNjD?utm_source=linkedin_share&utm_medium=member_desktop_web)
 ---
